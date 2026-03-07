@@ -64,7 +64,7 @@ La biblioteca forma parte del ecosistema de incentivos de INDASOCIAL. La partici
 
 ## 🤝 Comunidad
 
-IndaSOCIAL es una plataforma social descentralizada construida para su comunidad. Este repositorio es parte del esfuerzo colectivo por construir herramientas útiles, transparentes y accesibles para todos los miembros Inda.
+INDASOCIAL es una plataforma social descentralizada construida para su comunidad. Este repositorio es parte del esfuerzo colectivo por construir herramientas útiles, transparentes y accesibles para todos los miembros de Inda.
 
 ---
 
