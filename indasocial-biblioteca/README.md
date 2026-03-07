@@ -86,12 +86,12 @@ anchor test
 
 ---
 
-## 🪙 INDA Coins
+## 🪙 INDAOKENS
 
-La biblioteca forma parte del ecosistema de incentivos de IndaSOCIAL. La participación activa de los usuarios — leer artículos, contribuir contenido y compartir conocimiento — es la base para la distribución de **INDA Coins**, el token utilitario de la comunidad dentro de la plataforma.
+La biblioteca forma parte del ecosistema de incentivos de INDASOCIAL. La participación activa de los usuarios — leer artículos, contribuir contenido y compartir conocimiento — es la base para la distribución de **INDATOKENS**, el token utilitario de la comunidad dentro de la plataforma.
 
 > *El conocimiento compartido es la base de una comunidad fuerte.*
 
 ---
 
-*Construido con ❤️ para la comunidad Inda — sobre Solana.*
+*Construido con ❤️ para la comunidad Indasocial — sobre Solana.*
