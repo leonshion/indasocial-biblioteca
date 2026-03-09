@@ -1,4 +1,4 @@
-# 📚 IndaSOCIAL — Biblioteca de Artículos
+# 📚 INDASOCIAL — Biblioteca de Artículos
 
 > Un espacio de conocimiento colectivo construido sobre Solana, para y por la comunidad Inda.
 
